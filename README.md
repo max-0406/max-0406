@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @max-0406
-- 👀 I’m interested in vim, and cool things
+- 👀 I’m interested in vim and any cool things
 - 🌱 I’m currently learning LaTeX and Lua
 
 <!---
