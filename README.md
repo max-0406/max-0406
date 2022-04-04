@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Shen</h1>
-<h3 align="center">A Taiwanese high school student who likes learning cool things</h3>
+<h3 align="center">A Taiwanese high school student who likes to learn cool things</h3>
 
 - 🌱 I’m currently learning **LaTex**
 
