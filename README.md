@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **LaTex**
 
-- 📝 I regularly write articles on [https://maxshenblog.wordpress.com](https://maxshenblog.wordpress.com)
-
 - 💬 Ask me about **(Neo)vim**
 
 - ⚡ Fun fact **I can't write code without (Neo)vim**
